@@ -1,5 +1,5 @@
 
-<img src="Welcome (1).png" />
+<p align="center"><img src="Welcome (1).png" /> <p/>
 
 Hi, I'm a twenty-two years old programmer. I want to learn about almost everything, looking for new experiences that can expand my knowledge in every aspect of programming and work related spaces.
 
