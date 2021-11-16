@@ -1,5 +1,8 @@
-### Hi there 👋
 
+
+Hi, I'm a twenty-two years old programmer. I want to learn about almost everything, looking for new experiences that can expand my knowledge in every aspect of programming and work related spaces.
+
+Here is my Linkedin profile :wink:
 
 <a href="https://www.linkedin.com/in/alan-del-fresno-95a034187/"><img src="https://img.shields.io/badge/AlandelFresno-informational?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2" /></a>
 
