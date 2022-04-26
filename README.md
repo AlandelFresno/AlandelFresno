@@ -15,7 +15,6 @@ Here is my Linkedin profile :wink:
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=red-red)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Deknop&theme=noctis_minimus&v=2)](https://github.com/anuraghazra/github-readme-stats)
